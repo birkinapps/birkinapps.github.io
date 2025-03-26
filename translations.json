@@ -6,7 +6,13 @@
             "privacy_link": "🔒 Privacy Policy",
             "terms_link": "📄 Terms & Conditions",
             "manage_data_link": "🧼 Manage Your Data / Delete Account",
-            "footer": "© 2025 Daily Flare. All rights reserved."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Your daily companion for productivity and focus.",
+            "footer_contact_title": "Contact",
+            "footer_legal_title": "Legal",
+            "footer_privacy": "Privacy Policy",
+            "footer_terms": "Terms & Conditions",
+            "footer_copyright": "© 2025 Daily Flare. All rights reserved."
         },
         "tr": {
             "title": "Daily Flare - Destek",
@@ -14,7 +20,13 @@
             "privacy_link": "🔒 Gizlilik Politikası",
             "terms_link": "📄 Kullanım Koşulları",
             "manage_data_link": "🧼 Verilerinizi Yönetin / Hesabı Silin",
-            "footer": "© 2025 Daily Flare. Tüm hakları saklıdır."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Üretkenlik ve odaklanma için günlük yoldaşınız.",
+            "footer_contact_title": "İletişim",
+            "footer_legal_title": "Yasal",
+            "footer_privacy": "Gizlilik Politikası",
+            "footer_terms": "Kullanım Koşulları",
+            "footer_copyright": "© 2025 Daily Flare. Tüm hakları saklıdır."
         },
         "de": {
             "title": "Daily Flare - Support",
@@ -22,7 +34,13 @@
             "privacy_link": "🔒 Datenschutzerklärung",
             "terms_link": "📄 Nutzungsbedingungen",
             "manage_data_link": "🧼 Daten verwalten / Konto löschen",
-            "footer": "© 2025 Daily Flare. Alle Rechte vorbehalten."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Ihr täglicher Begleiter für Produktivität und Fokus.",
+            "footer_contact_title": "Kontakt",
+            "footer_legal_title": "Rechtliches",
+            "footer_privacy": "Datenschutzerklärung",
+            "footer_terms": "Nutzungsbedingungen",
+            "footer_copyright": "© 2025 Daily Flare. Alle Rechte vorbehalten."
         },
         "fr": {
             "title": "Daily Flare - Support",
@@ -30,7 +48,13 @@
             "privacy_link": "🔒 Politique de confidentialité",
             "terms_link": "📄 Conditions d'utilisation",
             "manage_data_link": "🧼 Gérer vos données / Supprimer le compte",
-            "footer": "© 2025 Daily Flare. Tous droits réservés."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Votre compagnon quotidien pour la productivité et la concentration.",
+            "footer_contact_title": "Contact",
+            "footer_legal_title": "Légal",
+            "footer_privacy": "Politique de confidentialité",
+            "footer_terms": "Conditions d'utilisation",
+            "footer_copyright": "© 2025 Daily Flare. Tous droits réservés."
         },
         "it": {
             "title": "Daily Flare - Supporto",
@@ -38,7 +62,13 @@
             "privacy_link": "🔒 Informativa sulla privacy",
             "terms_link": "📄 Termini e condizioni",
             "manage_data_link": "🧼 Gestisci i tuoi dati / Elimina account",
-            "footer": "© 2025 Daily Flare. Tutti i diritti riservati."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Il tuo compagno quotidiano per la produttività e la concentrazione.",
+            "footer_contact_title": "Contatto",
+            "footer_legal_title": "Legale",
+            "footer_privacy": "Informativa sulla privacy",
+            "footer_terms": "Termini e condizioni",
+            "footer_copyright": "© 2025 Daily Flare. Tutti i diritti riservati."
         },
         "pt": {
             "title": "Daily Flare - Suporte",
@@ -46,7 +76,13 @@
             "privacy_link": "🔒 Política de Privacidade",
             "terms_link": "📄 Termos e Condições",
             "manage_data_link": "🧼 Gerenciar seus dados / Excluir conta",
-            "footer": "© 2025 Daily Flare. Todos os direitos reservados."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Seu companheiro diário para produtividade e foco.",
+            "footer_contact_title": "Contato",
+            "footer_legal_title": "Legal",
+            "footer_privacy": "Política de Privacidade",
+            "footer_terms": "Termos e Condições",
+            "footer_copyright": "© 2025 Daily Flare. Todos os direitos reservados."
         },
         "es": {
             "title": "Daily Flare - Soporte",
@@ -54,7 +90,13 @@
             "privacy_link": "🔒 Política de privacidad",
             "terms_link": "📄 Términos y condiciones",
             "manage_data_link": "🧼 Gestionar sus datos / Eliminar cuenta",
-            "footer": "© 2025 Daily Flare. Todos los derechos reservados."
+            "footer_app_title": "Daily Flare",
+            "footer_app_description": "Tu compañero diario para la productividad y el enfoque.",
+            "footer_contact_title": "Contacto",
+            "footer_legal_title": "Legal",
+            "footer_privacy": "Política de privacidad",
+            "footer_terms": "Términos y condiciones",
+            "footer_copyright": "© 2025 Daily Flare. Todos los derechos reservados."
         }
     },
     "privacy_policy": {
@@ -556,7 +598,7 @@
             },
             "disclaimer": {
                 "title": "Avis de non-responsabilité",
-                "content": "Le Service est fourni \"TEL QUEL\" et \"TEL QUE DISPONIBLE\" sans aucune garantie d'aucune sorte, expresse ou implicite."
+                "content": "Le Service est fourni \"TEL QUEL\" et \"TEL QUE DISPONIBLE\" sans aucune garanti d'aucune sorte, expresse ou implicite."
             },
             "changes": {
                 "title": "Modifications des conditions",
