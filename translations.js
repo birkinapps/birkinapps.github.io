@@ -32,7 +32,7 @@ function getPageTranslations(translations) {
   const path = window.location.pathname;
   if (path.includes("privacy-policy")) {
     return translations.privacy_policy;
-  } else if (path.includes("terms")) {
+  } else if (path.includes("terms-and-conditions")) {
     return translations.terms_and_conditions;
   }
   return null;
@@ -65,8 +65,34 @@ function updateContent(translations, lang) {
       if (Array.isArray(value)) {
         // Handle lists
         element.innerHTML = value.map((item) => `<li>${item}</li>`).join("");
+      } else if (
+        element.querySelector("a") ||
+        element.querySelector("strong")
+      ) {
+        // If element contains links or strong tags, preserve HTML
+        const links = Array.from(element.getElementsByTagName("a"));
+        const strongs = Array.from(element.getElementsByTagName("strong"));
+        element.innerHTML = value;
+
+        // Restore links
+        links.forEach((link) => {
+          const newLink = element.querySelector(
+            `a[href="${link.getAttribute("href")}"]`
+          );
+          if (newLink) {
+            newLink.href = link.href;
+          }
+        });
+
+        // Restore strong tags
+        strongs.forEach((strong, index) => {
+          const newStrong = element.getElementsByTagName("strong")[index];
+          if (newStrong) {
+            newStrong.textContent = strong.textContent;
+          }
+        });
       } else {
-        // Handle text content
+        // Handle regular text content
         element.textContent = value;
       }
     }
