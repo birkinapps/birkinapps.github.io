@@ -1,4 +1,62 @@
 {
+    "index": {
+        "en": {
+            "title": "Daily Flare - Support",
+            "intro": "Welcome to the support center for Daily Flare. Below you can find links to important resources, legal documents, and manage your data.",
+            "privacy_link": "🔒 Privacy Policy",
+            "terms_link": "📄 Terms & Conditions",
+            "manage_data_link": "🧼 Manage Your Data / Delete Account",
+            "footer": "© 2025 Daily Flare. All rights reserved."
+        },
+        "tr": {
+            "title": "Daily Flare - Destek",
+            "intro": "Daily Flare destek merkezine hoş geldiniz. Aşağıda önemli kaynaklara, yasal belgelere ve verilerinizi yönetmeye yönelik bağlantıları bulabilirsiniz.",
+            "privacy_link": "🔒 Gizlilik Politikası",
+            "terms_link": "📄 Kullanım Koşulları",
+            "manage_data_link": "🧼 Verilerinizi Yönetin / Hesabı Silin",
+            "footer": "© 2025 Daily Flare. Tüm hakları saklıdır."
+        },
+        "de": {
+            "title": "Daily Flare - Support",
+            "intro": "Willkommen im Support-Center von Daily Flare. Hier finden Sie Links zu wichtigen Ressourcen, rechtlichen Dokumenten und können Ihre Daten verwalten.",
+            "privacy_link": "🔒 Datenschutzerklärung",
+            "terms_link": "📄 Nutzungsbedingungen",
+            "manage_data_link": "🧼 Daten verwalten / Konto löschen",
+            "footer": "© 2025 Daily Flare. Alle Rechte vorbehalten."
+        },
+        "fr": {
+            "title": "Daily Flare - Support",
+            "intro": "Bienvenue dans le centre de support de Daily Flare. Ci-dessous, vous trouverez des liens vers des ressources importantes, des documents légaux et la gestion de vos données.",
+            "privacy_link": "🔒 Politique de confidentialité",
+            "terms_link": "📄 Conditions d'utilisation",
+            "manage_data_link": "🧼 Gérer vos données / Supprimer le compte",
+            "footer": "© 2025 Daily Flare. Tous droits réservés."
+        },
+        "it": {
+            "title": "Daily Flare - Supporto",
+            "intro": "Benvenuti nel centro di supporto di Daily Flare. Di seguito troverete i collegamenti alle risorse importanti, ai documenti legali e alla gestione dei vostri dati.",
+            "privacy_link": "🔒 Informativa sulla privacy",
+            "terms_link": "📄 Termini e condizioni",
+            "manage_data_link": "🧼 Gestisci i tuoi dati / Elimina account",
+            "footer": "© 2025 Daily Flare. Tutti i diritti riservati."
+        },
+        "pt": {
+            "title": "Daily Flare - Suporte",
+            "intro": "Bem-vindo ao centro de suporte do Daily Flare. Abaixo você encontrará links para recursos importantes, documentos legais e gerenciamento de dados.",
+            "privacy_link": "🔒 Política de Privacidade",
+            "terms_link": "📄 Termos e Condições",
+            "manage_data_link": "🧼 Gerenciar seus dados / Excluir conta",
+            "footer": "© 2025 Daily Flare. Todos os direitos reservados."
+        },
+        "es": {
+            "title": "Daily Flare - Soporte",
+            "intro": "Bienvenido al centro de soporte de Daily Flare. A continuación encontrará enlaces a recursos importantes, documentos legales y gestión de datos.",
+            "privacy_link": "🔒 Política de privacidad",
+            "terms_link": "📄 Términos y condiciones",
+            "manage_data_link": "🧼 Gestionar sus datos / Eliminar cuenta",
+            "footer": "© 2025 Daily Flare. Todos los derechos reservados."
+        }
+    },
     "privacy_policy": {
         "en": {
             "title": "Privacy Policy",

@@ -34,6 +34,8 @@ function getPageTranslations(translations) {
     return translations.privacy_policy;
   } else if (path.includes("terms-and-conditions")) {
     return translations.terms_and_conditions;
+  } else if (path === "/" || path.includes("index")) {
+    return translations.index;
   }
   return null;
 }

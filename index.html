@@ -3,45 +3,87 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Daily Flare - Legal</title>
+    <title>Daily Flare - Support</title>
     <style>
       body {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         padding: 2em;
         max-width: 800px;
         margin: auto;
-        text-align: center;
+        line-height: 1.6;
       }
       h1 {
         color: #333;
+        margin-bottom: 1em;
       }
-      .link-container {
-        margin-top: 20px;
+      .intro {
+        font-size: 1.1em;
+        color: #555;
+        margin-bottom: 2em;
       }
-      a {
+      .links {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        margin-bottom: 2em;
+      }
+      .links a {
         text-decoration: none;
         color: #007bff;
-        font-size: 18px;
+        font-size: 1.1em;
+        padding: 0.5em;
+        border-radius: 4px;
+        transition: background-color 0.2s;
       }
-      a:hover {
-        text-decoration: underline;
+      .links a:hover {
+        background-color: #f8f9fa;
+      }
+      footer {
+        margin-top: 3em;
+        padding-top: 1em;
+        border-top: 1px solid #eee;
+        color: #666;
+        text-align: center;
+      }
+      #language-selector {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 5px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        background-color: white;
+        z-index: 1000;
       }
     </style>
   </head>
   <body>
-    <h1>Daily Flare - Legal Documents</h1>
-    <p>
-      Welcome to the legal section of Daily Flare. Below, you can access our
-      Privacy Policy and Terms & Conditions.
+    <h1 data-translate="title">Daily Flare - Support</h1>
+
+    <p class="intro" data-translate="intro">
+      Welcome to the support center for Daily Flare. Below you can find links to
+      important resources, legal documents, and manage your data.
     </p>
 
-    <div class="link-container">
-      <p><a href="privacy-policy.html">📜 Privacy Policy</a></p>
-      <p><a href="terms-and-conditions.html">📄 Terms & Conditions</a></p>
+    <div class="links">
+      <a href="privacy-policy.html" data-translate="privacy_link">
+        🔒 Privacy Policy
+      </a>
+      <a href="terms-and-conditions.html" data-translate="terms_link">
+        📄 Terms & Conditions
+      </a>
+      <a
+        href="https://dailyflare-api.vercel.app/"
+        data-translate="manage_data_link"
+      >
+        🧼 Manage Your Data / Delete Account
+      </a>
     </div>
 
     <footer>
-      <p>&copy; 2025 Daily Flare. All Rights Reserved.</p>
+      <p data-translate="footer">© 2025 Daily Flare. All rights reserved.</p>
     </footer>
+
+    <script src="translations.js"></script>
   </body>
 </html>
