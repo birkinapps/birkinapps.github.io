@@ -1,0 +1,713 @@
+{
+    "privacy_policy": {
+        "en": {
+            "title": "Privacy Policy",
+            "intro": "Süleyman Gökhan Birkin built the Daily Flare app as a Freemium app. This SERVICE is provided by Süleyman Gökhan Birkin at no cost and is intended for use as is.",
+            "information_collection": {
+                "title": "Information Collection and Use",
+                "content": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way."
+            },
+            "log_data": {
+                "title": "Log Data",
+                "content": "Whenever you use my Service, in case of an error, I collect data and information (through third-party products) on your phone called Log Data. This may include:",
+                "items": [
+                    "Your device Internet Protocol (\"IP\") address",
+                    "Device name",
+                    "Operating system version",
+                    "The configuration of the app when utilizing my Service",
+                    "The time and date of your use of the Service",
+                    "Other statistics"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "This Service does not use cookies explicitly. However, the app may use third-party code and libraries that use cookies to collect information and improve their services."
+            },
+            "service_providers": {
+                "title": "Service Providers",
+                "intro": "I may employ third-party companies for:",
+                "items": [
+                    "Facilitating our Service",
+                    "Providing the Service on our behalf",
+                    "Performing Service-related services",
+                    "Analyzing how our Service is used"
+                ]
+            },
+            "security": {
+                "title": "Security",
+                "content": "I value your trust in providing us with your Personal Information, and we use commercially acceptable means to protect it. However, no method of transmission over the internet is 100% secure."
+            },
+            "children_privacy": {
+                "title": "Children's Privacy",
+                "content": "I do not knowingly collect personally identifiable information from children. If you believe a child has provided personal information, please contact me immediately."
+            },
+            "changes": {
+                "title": "Changes to This Privacy Policy",
+                "content": "I may update our Privacy Policy from time to time. Any changes will be posted on this page."
+            },
+            "effective_date": "This policy is effective as of 2022-04-22.",
+            "contact": {
+                "title": "Contact Us",
+                "content": "If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at"
+            }
+        },
+        "de": {
+            "title": "Datenschutzerklärung",
+            "intro": "Süleyman Gökhan Birkin hat die Daily Flare App als Freemium-App entwickelt. Dieser SERVICE wird von Süleyman Gökhan Birkin kostenlos bereitgestellt und ist zur Verwendung wie besehen gedacht.",
+            "information_collection": {
+                "title": "Informationssammlung und -nutzung",
+                "content": "Für eine bessere Erfahrung bei der Nutzung unseres Services kann ich Sie auffordern, uns bestimmte persönlich identifizierbare Informationen zur Verfügung zu stellen. Die von mir angeforderten Informationen werden auf Ihrem Gerät gespeichert und von mir in keiner Weise gesammelt."
+            },
+            "log_data": {
+                "title": "Protokolldaten",
+                "content": "Immer wenn Sie meinen Service nutzen, sammle ich im Fehlerfall Daten und Informationen (über Produkte von Drittanbietern) auf Ihrem Telefon, die als Protokolldaten bezeichnet werden. Dies kann Folgendes umfassen:",
+                "items": [
+                    "Ihre Geräte-Internetprotokoll-Adresse (\"IP\")",
+                    "Gerätename",
+                    "Betriebssystemversion",
+                    "Die Konfiguration der App bei der Nutzung meines Services",
+                    "Die Uhrzeit und das Datum Ihrer Nutzung des Services",
+                    "Andere Statistiken"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "Dieser Service verwendet keine Cookies explizit. Die App kann jedoch Code und Bibliotheken von Drittanbietern verwenden, die Cookies nutzen, um Informationen zu sammeln und ihre Dienste zu verbessern."
+            },
+            "service_providers": {
+                "title": "Dienstanbieter",
+                "intro": "Ich kann Drittunternehmen für folgende Zwecke einsetzen:",
+                "items": [
+                    "Erleichterung unseres Services",
+                    "Bereitstellung des Services in unserem Namen",
+                    "Durchführung servicebezogener Dienste",
+                    "Analyse der Nutzung unseres Services"
+                ]
+            },
+            "security": {
+                "title": "Sicherheit",
+                "content": "Ich schätze Ihr Vertrauen in die Bereitstellung Ihrer persönlichen Informationen und wir verwenden kommerziell akzeptable Mittel, um diese zu schützen. Allerdings ist keine Methode der Übertragung über das Internet 100% sicher."
+            },
+            "children_privacy": {
+                "title": "Datenschutz von Kindern",
+                "content": "Ich sammle wissentlich keine persönlich identifizierbaren Informationen von Kindern. Wenn Sie glauben, dass ein Kind persönliche Informationen bereitgestellt hat, kontaktieren Sie mich bitte sofort."
+            },
+            "changes": {
+                "title": "Änderungen dieser Datenschutzerklärung",
+                "content": "Ich kann unsere Datenschutzerklärung von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite veröffentlicht."
+            },
+            "effective_date": "Diese Richtlinie ist ab dem 22.04.2022 gültig.",
+            "contact": {
+                "title": "Kontakt",
+                "content": "Wenn Sie Fragen oder Vorschläge zu meiner Datenschutzerklärung haben, zögern Sie nicht, mich unter"
+            }
+        },
+        "fr": {
+            "title": "Politique de confidentialité",
+            "intro": "Süleyman Gökhan Birkin a créé l'application Daily Flare en tant qu'application Freemium. Ce SERVICE est fourni par Süleyman Gökhan Birkin gratuitement et est destiné à être utilisé tel quel.",
+            "information_collection": {
+                "title": "Collecte et utilisation des informations",
+                "content": "Pour une meilleure expérience lors de l'utilisation de notre Service, je peux vous demander de nous fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne sont en aucun cas collectées par moi."
+            },
+            "log_data": {
+                "title": "Données de journal",
+                "content": "Chaque fois que vous utilisez mon Service, en cas d'erreur, je collecte des données et des informations (via des produits tiers) sur votre téléphone appelées Données de journal. Cela peut inclure :",
+                "items": [
+                    "L'adresse IP de votre appareil",
+                    "Nom de l'appareil",
+                    "Version du système d'exploitation",
+                    "La configuration de l'application lors de l'utilisation de mon Service",
+                    "L'heure et la date de votre utilisation du Service",
+                    "Autres statistiques"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "Ce Service n'utilise pas explicitement de cookies. Cependant, l'application peut utiliser du code et des bibliothèques tiers qui utilisent des cookies pour collecter des informations et améliorer leurs services."
+            },
+            "service_providers": {
+                "title": "Fournisseurs de services",
+                "intro": "Je peux employer des entreprises tierces pour :",
+                "items": [
+                    "Faciliter notre Service",
+                    "Fournir le Service en notre nom",
+                    "Effectuer des services liés au Service",
+                    "Analyser l'utilisation de notre Service"
+                ]
+            },
+            "security": {
+                "title": "Sécurité",
+                "content": "J'apprécie votre confiance en nous fournissant vos informations personnelles, et nous utilisons des moyens commercialement acceptables pour les protéger. Cependant, aucune méthode de transmission sur Internet n'est 100% sécurisée."
+            },
+            "children_privacy": {
+                "title": "Confidentialité des enfants",
+                "content": "Je ne collecte pas sciemment d'informations personnellement identifiables auprès des enfants. Si vous pensez qu'un enfant a fourni des informations personnelles, veuillez me contacter immédiatement."
+            },
+            "changes": {
+                "title": "Modifications de cette politique de confidentialité",
+                "content": "Je peux mettre à jour notre politique de confidentialité de temps à autre. Toutes les modifications seront publiées sur cette page."
+            },
+            "effective_date": "Cette politique est effective à partir du 22/04/2022.",
+            "contact": {
+                "title": "Nous contacter",
+                "content": "Si vous avez des questions ou des suggestions concernant ma politique de confidentialité, n'hésitez pas à me contacter à"
+            }
+        },
+        "it": {
+            "title": "Informativa sulla privacy",
+            "intro": "Süleyman Gökhan Birkin ha creato l'app Daily Flare come app Freemium. Questo SERVIZIO è fornito da Süleyman Gökhan Birkin gratuitamente e destinato all'uso così com'è.",
+            "information_collection": {
+                "title": "Raccolta e utilizzo delle informazioni",
+                "content": "Per una migliore esperienza durante l'utilizzo del nostro Servizio, potrei richiederti di fornirci determinate informazioni personali identificabili. Le informazioni che richiedo verranno conservate sul tuo dispositivo e non vengono in alcun modo raccolte da me."
+            },
+            "log_data": {
+                "title": "Dati di log",
+                "content": "Ogni volta che utilizzi il mio Servizio, in caso di errore, raccolgo dati e informazioni (attraverso prodotti di terze parti) sul tuo telefono chiamati Dati di log. Questo può includere:",
+                "items": [
+                    "L'indirizzo IP del tuo dispositivo",
+                    "Nome del dispositivo",
+                    "Versione del sistema operativo",
+                    "La configurazione dell'app durante l'utilizzo del mio Servizio",
+                    "L'ora e la data del tuo utilizzo del Servizio",
+                    "Altre statistiche"
+                ]
+            },
+            "cookies": {
+                "title": "Cookie",
+                "content": "Questo Servizio non utilizza esplicitamente i cookie. Tuttavia, l'app può utilizzare codice e librerie di terze parti che utilizzano i cookie per raccogliere informazioni e migliorare i loro servizi."
+            },
+            "service_providers": {
+                "title": "Fornitori di servizi",
+                "intro": "Posso impiegare aziende terze per:",
+                "items": [
+                    "Facilitare il nostro Servizio",
+                    "Fornire il Servizio per nostro conto",
+                    "Eseguire servizi relativi al Servizio",
+                    "Analizzare come viene utilizzato il nostro Servizio"
+                ]
+            },
+            "security": {
+                "title": "Sicurezza",
+                "content": "Apprezzo la tua fiducia nel fornirci le tue informazioni personali e utilizziamo mezzi commercialmente accettabili per proteggerle. Tuttavia, nessun metodo di trasmissione su Internet è sicuro al 100%."
+            },
+            "children_privacy": {
+                "title": "Privacy dei bambini",
+                "content": "Non raccolgo consapevolmente informazioni personali identificabili dai bambini. Se ritieni che un bambino abbia fornito informazioni personali, contattami immediatamente."
+            },
+            "changes": {
+                "title": "Modifiche a questa informativa sulla privacy",
+                "content": "Posso aggiornare la nostra informativa sulla privacy di tanto in tanto. Eventuali modifiche verranno pubblicate su questa pagina."
+            },
+            "effective_date": "Questa politica è effettiva dal 22/04/2022.",
+            "contact": {
+                "title": "Contattaci",
+                "content": "Se hai domande o suggerimenti sulla mia informativa sulla privacy, non esitare a contattarmi a"
+            }
+        },
+        "pt": {
+            "title": "Política de Privacidade",
+            "intro": "Süleyman Gökhan Birkin construiu o aplicativo Daily Flare como um aplicativo Freemium. Este SERVIÇO é fornecido por Süleyman Gökhan Birkin sem custo e destina-se a ser usado como está.",
+            "information_collection": {
+                "title": "Coleta e Uso de Informações",
+                "content": "Para uma melhor experiência, ao usar nosso Serviço, posso exigir que você nos forneça certas informações pessoais identificáveis. As informações que solicito serão retidas em seu dispositivo e não são coletadas por mim de forma alguma."
+            },
+            "log_data": {
+                "title": "Dados de Log",
+                "content": "Sempre que você usa meu Serviço, em caso de erro, eu coleto dados e informações (através de produtos de terceiros) no seu telefone chamados Dados de Log. Isso pode incluir:",
+                "items": [
+                    "Endereço de Protocolo de Internet (\"IP\") do seu dispositivo",
+                    "Nome do dispositivo",
+                    "Versão do sistema operacional",
+                    "A configuração do aplicativo ao utilizar meu Serviço",
+                    "A hora e data do seu uso do Serviço",
+                    "Outras estatísticas"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "Este Serviço não usa cookies explicitamente. No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam cookies para coletar informações e melhorar seus serviços."
+            },
+            "service_providers": {
+                "title": "Provedores de Serviços",
+                "intro": "Posso empregar empresas terceiras para:",
+                "items": [
+                    "Facilitar nosso Serviço",
+                    "Fornecer o Serviço em nosso nome",
+                    "Realizar serviços relacionados ao Serviço",
+                    "Analisar como nosso Serviço é usado"
+                ]
+            },
+            "security": {
+                "title": "Segurança",
+                "content": "Valorizo sua confiança em nos fornecer suas Informações Pessoais, e usamos meios comercialmente aceitáveis para protegê-las. No entanto, nenhum método de transmissão pela internet é 100% seguro."
+            },
+            "children_privacy": {
+                "title": "Privacidade das Crianças",
+                "content": "Não coleto intencionalmente informações pessoais identificáveis de crianças. Se você acredita que uma criança forneceu informações pessoais, entre em contato comigo imediatamente."
+            },
+            "changes": {
+                "title": "Alterações nesta Política de Privacidade",
+                "content": "Posso atualizar nossa Política de Privacidade de tempos em tempos. Quaisquer alterações serão publicadas nesta página."
+            },
+            "effective_date": "Esta política é efetiva a partir de 22/04/2022.",
+            "contact": {
+                "title": "Entre em Contato",
+                "content": "Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em me contatar em"
+            }
+        },
+        "es": {
+            "title": "Política de Privacidad",
+            "intro": "Süleyman Gökhan Birkin construyó la aplicación Daily Flare como una aplicación Freemium. Este SERVICIO es proporcionado por Süleyman Gökhan Birkin sin costo y está destinado a ser usado tal cual.",
+            "information_collection": {
+                "title": "Recopilación y Uso de Información",
+                "content": "Para una mejor experiencia, mientras usa nuestro Servicio, puedo requerir que nos proporcione cierta información personal identificable. La información que solicito se retendrá en su dispositivo y no es recopilada por mí de ninguna manera."
+            },
+            "log_data": {
+                "title": "Datos de Registro",
+                "content": "Cada vez que usa mi Servicio, en caso de error, recopilo datos e información (a través de productos de terceros) en su teléfono llamados Datos de Registro. Esto puede incluir:",
+                "items": [
+                    "Dirección de Protocolo de Internet (\"IP\") de su dispositivo",
+                    "Nombre del dispositivo",
+                    "Versión del sistema operativo",
+                    "La configuración de la aplicación al utilizar mi Servicio",
+                    "La hora y fecha de su uso del Servicio",
+                    "Otras estadísticas"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "Este Servicio no utiliza cookies explícitamente. Sin embargo, la aplicación puede usar código y bibliotecas de terceros que usan cookies para recopilar información y mejorar sus servicios."
+            },
+            "service_providers": {
+                "title": "Proveedores de Servicios",
+                "intro": "Puedo emplear empresas de terceros para:",
+                "items": [
+                    "Facilitar nuestro Servicio",
+                    "Proporcionar el Servicio en nuestro nombre",
+                    "Realizar servicios relacionados con el Servicio",
+                    "Analizar cómo se usa nuestro Servicio"
+                ]
+            },
+            "security": {
+                "title": "Seguridad",
+                "content": "Valoro su confianza al proporcionarnos su Información Personal, y utilizamos medios comercialmente aceptables para protegerla. Sin embargo, ningún método de transmisión por Internet es 100% seguro."
+            },
+            "children_privacy": {
+                "title": "Privacidad de los Niños",
+                "content": "No recopilo conscientemente información personal identificable de niños. Si cree que un niño ha proporcionado información personal, contácteme inmediatamente."
+            },
+            "changes": {
+                "title": "Cambios en esta Política de Privacidad",
+                "content": "Puedo actualizar nuestra Política de Privacidad de vez en cuando. Cualquier cambio será publicado en esta página."
+            },
+            "effective_date": "Esta política es efectiva a partir del 22/04/2022.",
+            "contact": {
+                "title": "Contáctenos",
+                "content": "Si tiene alguna pregunta o sugerencia sobre mi Política de Privacidad, no dude en contactarme en"
+            }
+        },
+        "tr": {
+            "title": "Gizlilik Politikası",
+            "intro": "Süleyman Gökhan Birkin, Daily Flare uygulamasını Freemium bir uygulama olarak geliştirdi. Bu HİZMET, Süleyman Gökhan Birkin tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.",
+            "information_collection": {
+                "title": "Bilgi Toplama ve Kullanım",
+                "content": "Hizmetimizi kullanırken daha iyi bir deneyim için, sizden belirli kişisel tanımlayıcı bilgiler sağlamanızı isteyebilirim. İstediğim bilgiler cihazınızda saklanacak ve benim tarafımdan hiçbir şekilde toplanmayacaktır."
+            },
+            "log_data": {
+                "title": "Günlük Verileri",
+                "content": "Hizmetimi kullandığınızda, bir hata durumunda, telefonunuzda Günlük Verileri adı verilen veri ve bilgileri (üçüncü taraf ürünler aracılığıyla) toplarım. Bu şunları içerebilir:",
+                "items": [
+                    "Cihazınızın İnternet Protokolü (\"IP\") adresi",
+                    "Cihaz adı",
+                    "İşletim sistemi sürümü",
+                    "Hizmetimi kullanırken uygulamanın yapılandırması",
+                    "Hizmeti kullandığınız zaman ve tarih",
+                    "Diğer istatistikler"
+                ]
+            },
+            "cookies": {
+                "title": "Çerezler",
+                "content": "Bu Hizmet açıkça çerez kullanmamaktadır. Ancak, uygulama bilgi toplamak ve hizmetlerini geliştirmek için çerez kullanan üçüncü taraf kod ve kütüphaneler kullanabilir."
+            },
+            "service_providers": {
+                "title": "Hizmet Sağlayıcıları",
+                "intro": "Aşağıdaki amaçlar için üçüncü taraf şirketleri kullanabilirim:",
+                "items": [
+                    "Hizmetimizi kolaylaştırmak",
+                    "Hizmeti bizim adımıza sağlamak",
+                    "Hizmetle ilgili hizmetleri gerçekleştirmek",
+                    "Hizmetimizin nasıl kullanıldığını analiz etmek"
+                ]
+            },
+            "security": {
+                "title": "Güvenlik",
+                "content": "Kişisel Bilgilerinizi sağladığınız için güveninize değer veriyoruz ve bunları korumak için ticari olarak kabul edilebilir araçlar kullanıyoruz. Ancak, internet üzerinden iletişim yöntemlerinden hiçbiri %100 güvenli değildir."
+            },
+            "children_privacy": {
+                "title": "Çocukların Gizliliği",
+                "content": "Bilinçli olarak çocuklardan kişisel tanımlayıcı bilgi toplamıyorum. Bir çocuğun kişisel bilgi sağladığını düşünüyorsanız, lütfen benimle hemen iletişime geçin."
+            },
+            "changes": {
+                "title": "Bu Gizlilik Politikasında Yapılan Değişiklikler",
+                "content": "Gizlilik Politikamızı zaman zaman güncelleyebilirim. Herhangi bir değişiklik bu sayfada yayınlanacaktır."
+            },
+            "effective_date": "Bu politika 22/04/2022 tarihinden itibaren geçerlidir.",
+            "contact": {
+                "title": "Bize Ulaşın",
+                "content": "Gizlilik Politikam hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçmekten çekinmeyin:"
+            }
+        }
+    },
+    "terms_and_conditions": {
+        "en": {
+            "title": "Terms and Conditions",
+            "intro": "By accessing and using the Daily Flare app, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access the Service.",
+            "definitions": {
+                "title": "Definitions",
+                "content": "For the purposes of these Terms and Conditions:",
+                "items": [
+                    "Service refers to the Daily Flare app",
+                    "Personal Data means data about a living individual who can be identified from those data",
+                    "Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself",
+                    "Cookies are small files stored on your device (computer or mobile device)"
+                ]
+            },
+            "access": {
+                "title": "Access and Use",
+                "content": "You must be at least 13 years old to use this Service. By using the Service, you represent and warrant that you meet this requirement."
+            },
+            "accounts": {
+                "title": "Accounts",
+                "content": "When you create an account with us, you must provide accurate, complete, and current information. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account."
+            },
+            "content": {
+                "title": "Content",
+                "content": "Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, or other material. You are responsible for the content that you post to the Service."
+            },
+            "intellectual_property": {
+                "title": "Intellectual Property",
+                "content": "The Service and its original content, features, and functionality are and will remain the exclusive property of Süleyman Gökhan Birkin and its licensors."
+            },
+            "termination": {
+                "title": "Termination",
+                "content": "We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever."
+            },
+            "limitations": {
+                "title": "Limitations of Liability",
+                "content": "In no event shall Süleyman Gökhan Birkin, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses."
+            },
+            "disclaimer": {
+                "title": "Disclaimer",
+                "content": "The Service is provided \"AS IS\" and \"AS AVAILABLE\" without any warranties of any kind, either express or implied."
+            },
+            "changes": {
+                "title": "Changes to Terms",
+                "content": "We reserve the right to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect."
+            },
+            "contact": {
+                "title": "Contact Us",
+                "content": "If you have any questions about these Terms, please contact us at"
+            }
+        },
+        "de": {
+            "title": "Nutzungsbedingungen",
+            "intro": "Durch den Zugriff auf und die Nutzung der Daily Flare App stimmen Sie zu, an diese Nutzungsbedingungen gebunden zu sein. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie den Service nicht nutzen.",
+            "definitions": {
+                "title": "Definitionen",
+                "content": "Für die Zwecke dieser Nutzungsbedingungen:",
+                "items": [
+                    "Service bezieht sich auf die Daily Flare App",
+                    "Personenbezogene Daten sind Daten über eine lebende Person, die aus diesen Daten identifiziert werden kann",
+                    "Nutzungsdaten sind Daten, die automatisch entweder durch die Nutzung des Services oder aus der Service-Infrastruktur selbst generiert werden",
+                    "Cookies sind kleine Dateien, die auf Ihrem Gerät (Computer oder Mobilgerät) gespeichert werden"
+                ]
+            },
+            "access": {
+                "title": "Zugang und Nutzung",
+                "content": "Sie müssen mindestens 13 Jahre alt sein, um diesen Service zu nutzen. Durch die Nutzung des Services bestätigen und garantieren Sie, dass Sie diese Anforderung erfüllen."
+            },
+            "accounts": {
+                "title": "Konten",
+                "content": "Wenn Sie ein Konto bei uns erstellen, müssen Sie genaue, vollständige und aktuelle Informationen bereitstellen. Die Nichterfüllung dieser Pflicht stellt einen Verstoß gegen die Nutzungsbedingungen dar, der zur sofortigen Kündigung Ihres Kontos führen kann."
+            },
+            "content": {
+                "title": "Inhalt",
+                "content": "Unser Service ermöglicht es Ihnen, bestimmte Informationen, Texte, Grafiken oder andere Materialien zu veröffentlichen, zu verlinken, zu speichern, zu teilen und anderweitig verfügbar zu machen. Sie sind für die Inhalte verantwortlich, die Sie im Service veröffentlichen."
+            },
+            "intellectual_property": {
+                "title": "Geistiges Eigentum",
+                "content": "Der Service und sein ursprünglicher Inhalt, seine Funktionen und Funktionalität sind und bleiben das ausschließliche Eigentum von Süleyman Gökhan Birkin und seinen Lizenzgebern."
+            },
+            "termination": {
+                "title": "Kündigung",
+                "content": "Wir können Ihr Konto nach unserem alleinigen Ermessen ohne vorherige Ankündigung oder Haftung aus beliebigem Grund sofort kündigen oder sperren und den Zugang zum Service verweigern."
+            },
+            "limitations": {
+                "title": "Haftungsbeschränkungen",
+                "content": "Süleyman Gökhan Birkin, seine Direktoren, Mitarbeiter, Partner, Agenten, Lieferanten oder verbundene Unternehmen haften in keinem Fall für indirekte, zufällige, besondere, Folgeschäden oder Strafschäden, einschließlich ohne Einschränkung, Verlust von Gewinnen, Daten, Nutzung, Goodwill oder andere immaterielle Verluste."
+            },
+            "disclaimer": {
+                "title": "Haftungsausschluss",
+                "content": "Der Service wird \"WIE BESEHEN\" und \"WIE VERFÜGBAR\" ohne jegliche Garantien, weder ausdrücklich noch stillschweigend, bereitgestellt."
+            },
+            "changes": {
+                "title": "Änderungen der Bedingungen",
+                "content": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern oder zu ersetzen. Bei wesentlichen Änderungen werden wir versuchen, mindestens 30 Tage vor Inkrafttreten der neuen Bedingungen eine Benachrichtigung zu senden."
+            },
+            "contact": {
+                "title": "Kontakt",
+                "content": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter"
+            }
+        },
+        "fr": {
+            "title": "Conditions d'utilisation",
+            "intro": "En accédant et en utilisant l'application Daily Flare, vous acceptez d'être lié par ces conditions d'utilisation. Si vous n'acceptez pas une partie des conditions, vous ne pouvez pas accéder au Service.",
+            "definitions": {
+                "title": "Définitions",
+                "content": "Aux fins des présentes conditions d'utilisation :",
+                "items": [
+                    "Service fait référence à l'application Daily Flare",
+                    "Données personnelles désigne les données concernant une personne vivante qui peut être identifiée à partir de ces données",
+                    "Données d'utilisation sont les données collectées automatiquement soit générées par l'utilisation du Service, soit par l'infrastructure du Service elle-même",
+                    "Cookies sont de petits fichiers stockés sur votre appareil (ordinateur ou appareil mobile)"
+                ]
+            },
+            "access": {
+                "title": "Accès et utilisation",
+                "content": "Vous devez avoir au moins 13 ans pour utiliser ce Service. En utilisant le Service, vous déclarez et garantissez que vous remplissez cette condition."
+            },
+            "accounts": {
+                "title": "Comptes",
+                "content": "Lorsque vous créez un compte avec nous, vous devez fournir des informations exactes, complètes et à jour. Le fait de ne pas le faire constitue une violation des Conditions, qui peut entraîner la résiliation immédiate de votre compte."
+            },
+            "content": {
+                "title": "Contenu",
+                "content": "Notre Service vous permet de publier, lier, stocker, partager et rendre disponibles certaines informations, textes, graphiques ou autres matériaux. Vous êtes responsable du contenu que vous publiez sur le Service."
+            },
+            "intellectual_property": {
+                "title": "Propriété intellectuelle",
+                "content": "Le Service et son contenu original, ses fonctionnalités et ses fonctions sont et resteront la propriété exclusive de Süleyman Gökhan Birkin et de ses concédants."
+            },
+            "termination": {
+                "title": "Résiliation",
+                "content": "Nous pouvons résilier ou suspendre votre compte et bloquer l'accès au Service immédiatement, sans préavis ni responsabilité, selon notre seule discrétion, pour quelque raison que ce soit."
+            },
+            "limitations": {
+                "title": "Limitations de responsabilité",
+                "content": "En aucun cas Süleyman Gökhan Birkin, ses administrateurs, employés, partenaires, agents, fournisseurs ou affiliés ne seront responsables des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, y compris, sans limitation, la perte de profits, de données, d'utilisation, de goodwill ou d'autres pertes immatérielles."
+            },
+            "disclaimer": {
+                "title": "Avis de non-responsabilité",
+                "content": "Le Service est fourni \"TEL QUEL\" et \"TEL QUE DISPONIBLE\" sans aucune garantie d'aucune sorte, expresse ou implicite."
+            },
+            "changes": {
+                "title": "Modifications des conditions",
+                "content": "Nous nous réservons le droit de modifier ou de remplacer ces conditions à tout moment. Si une révision est importante, nous essaierons de fournir un préavis d'au moins 30 jours avant l'entrée en vigueur de toute nouvelle condition."
+            },
+            "contact": {
+                "title": "Nous contacter",
+                "content": "Si vous avez des questions concernant ces conditions, veuillez nous contacter à"
+            }
+        },
+        "it": {
+            "title": "Termini e Condizioni",
+            "intro": "Accedendo e utilizzando l'app Daily Flare, accetti di essere vincolato da questi Termini e Condizioni. Se non sei d'accordo con qualsiasi parte di questi termini, non puoi accedere al Servizio.",
+            "definitions": {
+                "title": "Definizioni",
+                "content": "Ai fini dei presenti Termini e Condizioni:",
+                "items": [
+                    "Servizio si riferisce all'app Daily Flare",
+                    "Dati personali significa dati su un individuo vivente che può essere identificato da tali dati",
+                    "Dati di utilizzo sono dati raccolti automaticamente generati dall'uso del Servizio o dall'infrastruttura del Servizio stessa",
+                    "Cookie sono piccoli file memorizzati sul tuo dispositivo (computer o dispositivo mobile)"
+                ]
+            },
+            "access": {
+                "title": "Accesso e utilizzo",
+                "content": "Devi avere almeno 13 anni per utilizzare questo Servizio. Utilizzando il Servizio, dichiari e garantisci di soddisfare questo requisito."
+            },
+            "accounts": {
+                "title": "Account",
+                "content": "Quando crei un account con noi, devi fornire informazioni accurate, complete e aggiornate. Il mancato rispetto di questa disposizione costituisce una violazione dei Termini, che può comportare la risoluzione immediata del tuo account."
+            },
+            "content": {
+                "title": "Contenuto",
+                "content": "Il nostro Servizio ti permette di pubblicare, collegare, memorizzare, condividere e rendere disponibili determinate informazioni, testi, grafica o altro materiale. Sei responsabile del contenuto che pubblichi sul Servizio."
+            },
+            "intellectual_property": {
+                "title": "Proprietà intellettuale",
+                "content": "Il Servizio e il suo contenuto originale, le sue funzionalità e funzioni sono e rimarranno di proprietà esclusiva di Süleyman Gökhan Birkin e dei suoi licenzianti."
+            },
+            "termination": {
+                "title": "Risoluzione",
+                "content": "Possiamo terminare o sospendere il tuo account e bloccare l'accesso al Servizio immediatamente, senza preavviso o responsabilità, a nostra esclusiva discrezione, per qualsiasi motivo."
+            },
+            "limitations": {
+                "title": "Limitazioni di responsabilità",
+                "content": "In nessun caso Süleyman Gökhan Birkin, i suoi amministratori, dipendenti, partner, agenti, fornitori o affiliati saranno responsabili per danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi, senza limitazione, perdita di profitti, dati, utilizzo, goodwill o altre perdite immateriali."
+            },
+            "disclaimer": {
+                "title": "Disclaimer",
+                "content": "Il Servizio è fornito \"COSÌ COM'È\" e \"COME DISPONIBILE\" senza alcuna garanzia di alcun tipo, espressa o implicita."
+            },
+            "changes": {
+                "title": "Modifiche ai termini",
+                "content": "Ci riserviamo il diritto di modificare o sostituire questi Termini in qualsiasi momento. Se una revisione è sostanziale, cercheremo di fornire un preavviso di almeno 30 giorni prima che entrino in vigore eventuali nuovi termini."
+            },
+            "contact": {
+                "title": "Contattaci",
+                "content": "Se hai domande su questi Termini, contattaci a"
+            }
+        },
+        "pt": {
+            "title": "Termos e Condições",
+            "intro": "Ao acessar e usar o aplicativo Daily Flare, você concorda em ficar vinculado a estes Termos e Condições. Se você discordar de qualquer parte destes termos, não poderá acessar o Serviço.",
+            "definitions": {
+                "title": "Definições",
+                "content": "Para os fins destes Termos e Condições:",
+                "items": [
+                    "Serviço refere-se ao aplicativo Daily Flare",
+                    "Dados pessoais significa dados sobre um indivíduo vivo que pode ser identificado a partir desses dados",
+                    "Dados de uso são dados coletados automaticamente gerados pelo uso do Serviço ou pela própria infraestrutura do Serviço",
+                    "Cookies são pequenos arquivos armazenados em seu dispositivo (computador ou dispositivo móvel)"
+                ]
+            },
+            "access": {
+                "title": "Acesso e uso",
+                "content": "Você deve ter pelo menos 13 anos para usar este Serviço. Ao usar o Serviço, você declara e garante que atende a este requisito."
+            },
+            "accounts": {
+                "title": "Contas",
+                "content": "Quando você cria uma conta conosco, você deve fornecer informações precisas, completas e atuais. A falha em fazê-lo constitui uma violação dos Termos, que pode resultar na rescisão imediata de sua conta."
+            },
+            "content": {
+                "title": "Conteúdo",
+                "content": "Nosso Serviço permite que você publique, vincule, armazene, compartilhe e disponibilize certas informações, textos, gráficos ou outros materiais. Você é responsável pelo conteúdo que publica no Serviço."
+            },
+            "intellectual_property": {
+                "title": "Propriedade intelectual",
+                "content": "O Serviço e seu conteúdo original, recursos e funcionalidades são e permanecerão de propriedade exclusiva de Süleyman Gökhan Birkin e seus licenciadores."
+            },
+            "termination": {
+                "title": "Rescisão",
+                "content": "Podemos encerrar ou suspender sua conta e bloquear o acesso ao Serviço imediatamente, sem aviso prévio ou responsabilidade, a nosso exclusivo critério, por qualquer motivo."
+            },
+            "limitations": {
+                "title": "Limitações de responsabilidade",
+                "content": "Em nenhum caso Süleyman Gökhan Birkin, seus diretores, funcionários, parceiros, agentes, fornecedores ou afiliados serão responsáveis por danos indiretos, incidentais, especiais, consequenciais ou punitivos, incluindo, sem limitação, perda de lucros, dados, uso, goodwill ou outras perdas intangíveis."
+            },
+            "disclaimer": {
+                "title": "Aviso legal",
+                "content": "O Serviço é fornecido \"COMO ESTÁ\" e \"COMO DISPONÍVEL\" sem garantias de qualquer tipo, expressas ou implícitas."
+            },
+            "changes": {
+                "title": "Alterações nos termos",
+                "content": "Reservamo-nos o direito de modificar ou substituir estes Termos a qualquer momento. Se uma revisão for substancial, tentaremos fornecer pelo menos 30 dias de aviso antes que quaisquer novos termos entrem em vigor."
+            },
+            "contact": {
+                "title": "Entre em contato",
+                "content": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco em"
+            }
+        },
+        "es": {
+            "title": "Términos y Condiciones",
+            "intro": "Al acceder y utilizar la aplicación Daily Flare, usted acepta estar sujeto a estos Términos y Condiciones. Si no está de acuerdo con alguna parte de estos términos, no puede acceder al Servicio.",
+            "definitions": {
+                "title": "Definiciones",
+                "content": "Para los fines de estos Términos y Condiciones:",
+                "items": [
+                    "Servicio se refiere a la aplicación Daily Flare",
+                    "Datos personales significa datos sobre un individuo vivo que puede ser identificado a partir de esos datos",
+                    "Datos de uso son datos recopilados automáticamente generados por el uso del Servicio o por la infraestructura del Servicio misma",
+                    "Cookies son pequeños archivos almacenados en su dispositivo (computadora o dispositivo móvil)"
+                ]
+            },
+            "access": {
+                "title": "Acceso y uso",
+                "content": "Debe tener al menos 13 años para usar este Servicio. Al usar el Servicio, usted declara y garantiza que cumple con este requisito."
+            },
+            "accounts": {
+                "title": "Cuentas",
+                "content": "Cuando crea una cuenta con nosotros, debe proporcionar información precisa, completa y actualizada. No hacerlo constituye una violación de los Términos, que puede resultar en la terminación inmediata de su cuenta."
+            },
+            "content": {
+                "title": "Contenido",
+                "content": "Nuestro Servicio le permite publicar, vincular, almacenar, compartir y poner a disposición cierta información, texto, gráficos u otro material. Usted es responsable del contenido que publica en el Servicio."
+            },
+            "intellectual_property": {
+                "title": "Propiedad intelectual",
+                "content": "El Servicio y su contenido original, características y funcionalidad son y seguirán siendo propiedad exclusiva de Süleyman Gökhan Birkin y sus licenciantes."
+            },
+            "termination": {
+                "title": "Terminación",
+                "content": "Podemos terminar o suspender su cuenta y bloquear el acceso al Servicio inmediatamente, sin previo aviso o responsabilidad, a nuestra exclusiva discreción, por cualquier motivo."
+            },
+            "limitations": {
+                "title": "Limitaciones de responsabilidad",
+                "content": "En ningún caso Süleyman Gökhan Birkin, sus directores, empleados, socios, agentes, proveedores o afiliados serán responsables por daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo, sin limitación, pérdida de ganancias, datos, uso, buena voluntad u otras pérdidas intangibles."
+            },
+            "disclaimer": {
+                "title": "Descargo de responsabilidad",
+                "content": "El Servicio se proporciona \"TAL CUAL\" y \"COMO ESTÁ DISPONIBLE\" sin garantías de ningún tipo, expresas o implícitas."
+            },
+            "changes": {
+                "title": "Cambios en los términos",
+                "content": "Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier momento. Si una revisión es sustancial, intentaremos proporcionar al menos 30 días de aviso antes de que cualquier nuevo término entre en vigor."
+            },
+            "contact": {
+                "title": "Contáctenos",
+                "content": "Si tiene alguna pregunta sobre estos Términos, contáctenos en"
+            }
+        },
+        "tr": {
+            "title": "Kullanım Koşulları",
+            "intro": "Daily Flare uygulamasına erişerek ve kullanarak, bu Kullanım Koşullarına bağlı olmayı kabul edersiniz. Bu koşulların herhangi bir kısmıyla aynı fikirde değilseniz, Hizmete erişemezsiniz.",
+            "definitions": {
+                "title": "Tanımlar",
+                "content": "Bu Kullanım Koşulları için:",
+                "items": [
+                    "Hizmet, Daily Flare uygulamasını ifade eder",
+                    "Kişisel Veriler, bu verilerden kimliği belirlenebilen yaşayan bir birey hakkındaki verileri ifade eder",
+                    "Kullanım Verileri, Hizmetin kullanımından veya Hizmet altyapısından otomatik olarak toplanan verilerdir",
+                    "Çerezler, cihazınızda (bilgisayar veya mobil cihaz) saklanan küçük dosyalardır"
+                ]
+            },
+            "access": {
+                "title": "Erişim ve Kullanım",
+                "content": "Bu Hizmeti kullanmak için en az 13 yaşında olmalısınız. Hizmeti kullanarak, bu gereksinimi karşıladığınızı beyan eder ve garanti edersiniz."
+            },
+            "accounts": {
+                "title": "Hesaplar",
+                "content": "Bizimle bir hesap oluşturduğunuzda, doğru, eksiksiz ve güncel bilgiler sağlamalısınız. Bunu yapmamak, Koşulların ihlali teşkil eder ve hesabınızın derhal sonlandırılmasına neden olabilir."
+            },
+            "content": {
+                "title": "İçerik",
+                "content": "Hizmetimiz, belirli bilgileri, metinleri, grafikleri veya diğer materyalleri yayınlamanıza, bağlamanıza, depolamanıza, paylaşmanıza ve başka şekilde kullanılabilir hale getirmenize olanak tanır. Hizmette yayınladığınız içerikten siz sorumlusunuz."
+            },
+            "intellectual_property": {
+                "title": "Fikri Mülkiyet",
+                "content": "Hizmet ve orijinal içeriği, özellikleri ve işlevselliği, Süleyman Gökhan Birkin ve lisans verenlerinin münhasır mülkiyetidir ve öyle kalacaktır."
+            },
+            "termination": {
+                "title": "Sonlandırma",
+                "content": "Hesabınızı herhangi bir nedenle, önceden bildirimde bulunmadan veya sorumluluk olmadan, kendi takdirimize bağlı olarak derhal sonlandırabilir veya askıya alabilir ve Hizmete erişimi engelleyebiliriz."
+            },
+            "limitations": {
+                "title": "Sorumluluk Sınırlamaları",
+                "content": "Hiçbir durumda Süleyman Gökhan Birkin, yöneticileri, çalışanları, ortakları, temsilcileri, tedarikçileri veya bağlı kuruluşları, kâr kaybı, veri kaybı, kullanım kaybı, itibar kaybı veya diğer maddi olmayan kayıplar dahil olmak üzere dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zararlardan sorumlu olmayacaktır."
+            },
+            "disclaimer": {
+                "title": "Sorumluluk Reddi",
+                "content": "Hizmet, açık veya zımni hiçbir garanti olmaksızın \"OLDUĞU GİBİ\" ve \"KULLANILABİLİR OLDUĞU GİBİ\" sağlanmaktadır."
+            },
+            "changes": {
+                "title": "Koşullarda Değişiklik",
+                "content": "Bu Koşulları herhangi bir zamanda değiştirme veya değiştirme hakkını saklı tutarız. Değişiklik önemliyse, yeni koşulların yürürlüğe girmesinden en az 30 gün önce bildirimde bulunmaya çalışacağız."
+            },
+            "contact": {
+                "title": "Bize Ulaşın",
+                "content": "Bu Koşullar hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:"
+            }
+        }
+    }
+}

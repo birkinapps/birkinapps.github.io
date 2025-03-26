@@ -11,33 +11,45 @@
         max-width: 800px;
         margin: auto;
       }
+      #language-selector {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 5px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        background-color: white;
+        z-index: 1000;
+      }
     </style>
   </head>
   <body>
-    <h1>Privacy Policy</h1>
-    <p>
+    <h1 data-translate="title">Privacy Policy</h1>
+    <p data-translate="intro">
       <strong>Süleyman Gökhan Birkin</strong> built the
       <strong>Daily Flare</strong> app as a Freemium app. This SERVICE is
       provided by Süleyman Gökhan Birkin at no cost and is intended for use as
       is.
     </p>
 
-    <h2>Information Collection and Use</h2>
-    <p>
+    <h2 data-translate="information_collection.title">
+      Information Collection and Use
+    </h2>
+    <p data-translate="information_collection.content">
       For a better experience, while using our Service, I may require you to
       provide us with certain personally identifiable information. The
       information that I request will be retained on your device and is not
       collected by me in any way.
     </p>
 
-    <h2>Log Data</h2>
-    <p>
+    <h2 data-translate="log_data.title">Log Data</h2>
+    <p data-translate="log_data.content">
       Whenever you use my Service, in case of an error, I collect data and
       information (through third-party products) on your phone called Log Data.
       This may include:
     </p>
-    <ul>
-      <li>Your device Internet Protocol (“IP”) address</li>
+    <ul data-translate="log_data.items">
+      <li>Your device Internet Protocol ("IP") address</li>
       <li>Device name</li>
       <li>Operating system version</li>
       <li>The configuration of the app when utilizing my Service</li>
@@ -45,49 +57,66 @@
       <li>Other statistics</li>
     </ul>
 
-    <h2>Cookies</h2>
-    <p>
+    <h2 data-translate="cookies.title">Cookies</h2>
+    <p data-translate="cookies.content">
       This Service does not use cookies explicitly. However, the app may use
       third-party code and libraries that use cookies to collect information and
       improve their services.
     </p>
 
-    <h2>Service Providers</h2>
-    <p>I may employ third-party companies for:</p>
-    <ul>
+    <h2 data-translate="service_providers.title">Service Providers</h2>
+    <p data-translate="service_providers.intro">
+      I may employ third-party companies for:
+    </p>
+    <ul data-translate="service_providers.items">
       <li>Facilitating our Service</li>
       <li>Providing the Service on our behalf</li>
       <li>Performing Service-related services</li>
       <li>Analyzing how our Service is used</li>
     </ul>
 
-    <h2>Security</h2>
-    <p>
+    <h2 data-translate="security.title">Security</h2>
+    <p data-translate="security.content">
       I value your trust in providing us with your Personal Information, and we
       use commercially acceptable means to protect it. However, no method of
       transmission over the internet is 100% secure.
     </p>
 
-    <h2>Children’s Privacy</h2>
-    <p>
+    <h2 data-translate="children_privacy.title">Children's Privacy</h2>
+    <p data-translate="children_privacy.content">
       I do not knowingly collect personally identifiable information from
       children. If you believe a child has provided personal information, please
       contact me immediately.
     </p>
 
-    <h2>Changes to This Privacy Policy</h2>
-    <p>
+    <h2 data-translate="changes.title">Changes to This Privacy Policy</h2>
+    <p data-translate="changes.content">
       I may update our Privacy Policy from time to time. Any changes will be
       posted on this page.
     </p>
 
-    <p>This policy is effective as of <strong>2022-04-22</strong>.</p>
+    <p data-translate="effective_date">
+      This policy is effective as of <strong>2022-04-22</strong>.
+    </p>
 
-    <h2>Contact Us</h2>
-    <p>
+    <h2 data-translate="contact.title">Contact Us</h2>
+    <p data-translate="contact.content">
       If you have any questions or suggestions about my Privacy Policy, do not
       hesitate to contact me at
       <a href="mailto:gokhan@birkinapps.com">gokhan@birkinapps.com</a>.
     </p>
+
+    <footer
+      style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #eee"
+    >
+      <p>
+        <strong>Daily Flare</strong><br />
+        Süleyman Gökhan Birkin<br />
+        <a href="mailto:gokhan@birkinapps.com">gokhan@birkinapps.com</a><br />
+        <a href="https://birkinapps.github.io">https://birkinapps.github.io</a>
+      </p>
+    </footer>
+
+    <script src="translations.js"></script>
   </body>
 </html>
